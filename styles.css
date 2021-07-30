@@ -3,7 +3,7 @@ nav {
   background-color: teal;
 }
 
-.container {
+.container-fluid:first-child {
   flex-wrap: wrap;
   background-color: #03a3df;
   width: 100%;
@@ -59,4 +59,9 @@ h1 {
 
 .container-fluid {
   font-family: "Josefin Slab", serif;
+}
+
+.aboutpic {
+  display: block;
+  margin: 0 auto;
 }
