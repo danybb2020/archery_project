@@ -1,11 +1,6 @@
-nav {
-  color: #ecb722;
-  background-color: teal;
-}
-
 .container-fluid:first-child {
   flex-wrap: wrap;
-  background-color: #03a3df;
+  background-color: #ecb722;
   width: 100%;
   font-family: "Cinzel", serif;
 }
